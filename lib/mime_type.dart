@@ -110,7 +110,6 @@ const Map<String, String> _mimeMap = <String, String>{
   'boz': 'application/x-bzip2',
   'bpk': 'application/octet-stream',
   'btif': 'image/prs.btif',
-  'bwf': 'audio/x-wav',
   'bz': 'application/x-bzip',
   'bz2': 'application/x-bzip2',
   'c': 'text/x-c',
